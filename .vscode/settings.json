@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "stdbool.h": "c",
+        "ecran.h": "c",
+        "inttypes.h": "c",
+        "stdio.h": "c",
+        "doprnt.h": "c",
+        "stdarg.h": "c",
+        "cpu.h": "c"
+    }
+}
